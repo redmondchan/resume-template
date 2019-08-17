@@ -1,0 +1,21 @@
+body {
+  width: 8.5in;
+  height: 11in;
+  color: red;
+}
+
+.info {
+  height: 30%;
+}
+
+.left-side {
+  height: 100%;
+  width: 40%;
+  float: left;
+}
+
+.right-side {
+  height: 100%;
+  width: 60%;
+  float: left;
+}
