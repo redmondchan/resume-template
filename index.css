@@ -4,18 +4,30 @@ body {
   color: red;
 }
 
-.info {
-  height: 30%;
+.header {
+  height: 15%;
 }
 
+/* .info {
+  /* background-color: yellow; */
+  /* height: 30%; */
+/* } */
+
 .left-side {
+  background-color: black;
   height: 100%;
   width: 40%;
   float: left;
 }
 
 .right-side {
+  background-color: yellow;
   height: 100%;
   width: 60%;
   float: left;
+}
+
+.header-name {
+  height:15%;
+  /* background-color: black; */
 }
