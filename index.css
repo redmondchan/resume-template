@@ -2,21 +2,25 @@ body {
   width: 8.5in;
   height: 11in;
   color: red;
+  margin: 0;
 }
 
 .header {
   height: 15%;
 }
 
-/* .info {
+.info {
   /* background-color: yellow; */
   /* height: 30%; */
-/* } */
+}
+
 
 .left-side {
   background-color: black;
   height: 100%;
-  width: 40%;
+  width: 36%;
+  padding-left: 2%;
+  padding-right: 2%;
   float: left;
 }
 
@@ -30,4 +34,9 @@ body {
 .header-name {
   height:15%;
   /* background-color: black; */
+}
+
+.ul {
+  list-style: none;
+  padding-left: 0;
 }
