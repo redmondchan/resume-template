@@ -1,8 +1,11 @@
 body {
   width: 8.5in;
   height: 11in;
-  color: #CE5310;
   margin: 0;
+}
+
+.description {
+  font-style: italic;
 }
 
 .header {
@@ -24,10 +27,17 @@ body {
   float: left;
 }
 
+.list-header {
+  font-weight: bold;
+  margin: 0;
+}
+
 .right-side {
   background-color: yellow;
   height: 100%;
-  width: 60%;
+  width: 56%;
+  padding-left: 2%;
+  padding-right: 2%;
   float: left;
 }
 
@@ -35,6 +45,7 @@ body {
   height:10%;
   /* background-color: black; */
 }
+
 
 section {
   padding-bottom: 5%;
@@ -61,6 +72,11 @@ section {
 
 .white {
   color: #dededc;
+}
+
+.ol {
+  list-style-type: none;
+  padding-left: 0;
 }
 
 .orange {
