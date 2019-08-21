@@ -1,7 +1,7 @@
 body {
   width: 8.5in;
   height: 11in;
-  color: red;
+  color: #CE5310;
   margin: 0;
 }
 
@@ -16,7 +16,7 @@ body {
 
 
 .left-side {
-  background-color: black;
+  background-color: #375152;
   height: 100%;
   width: 36%;
   padding-left: 2%;
