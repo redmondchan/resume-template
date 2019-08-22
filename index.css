@@ -4,12 +4,25 @@ body {
   margin: 0;
 }
 
+.a {
+  color: white;
+}
+
+.a-project {
+  font-weight: normal;
+  color: purple;
+}
+
 .description {
   font-style: italic;
 }
 
 .header {
   height: 8%;
+}
+
+.font-normal {
+  font-weight: normal;
 }
 
 .info {
