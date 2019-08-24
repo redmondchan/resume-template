@@ -25,12 +25,6 @@ body {
   font-weight: normal;
 }
 
-.info {
-  /* background-color: yellow; */
-  /* height: 30%; */
-}
-
-
 .left-side {
   background-color: #375152;
   height: 100%;
@@ -59,9 +53,7 @@ body {
 
 .header-name {
   height:8%;
-  /* background-color: black; */
 }
-
 
 section {
   padding-bottom: 5%;
