@@ -2,7 +2,7 @@
 
 My resume template written in HTML and CSS
 
-# How to download as resume
+# How to save as PDF
 
 Press CTRL+P or CMD+P to open the print dialog. Change the destination printer to "Save as PDF". You may need to customize the margins.
 
