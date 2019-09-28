@@ -4,13 +4,8 @@ body {
   margin: 0;
 }
 
-.a {
-  color: white;
-}
-
 .a-project {
   font-weight: normal;
-  color: purple;
 }
 
 .header {
@@ -89,6 +84,10 @@ body {
 
 .u-orange {
   color: #CE5310;
+}
+
+.u-white {
+  color: white;
 }
 
 .small-font {
