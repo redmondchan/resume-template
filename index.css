@@ -13,10 +13,6 @@ body {
   color: purple;
 }
 
-.description {
-  font-style: italic;
-}
-
 .header {
   height: 8%;
 }
@@ -61,6 +57,10 @@ body {
 
 .section__p {
   margin: 0;
+}
+
+.section__p--italic {
+  font-style: italic;
 }
 
 .section__education--padding {
