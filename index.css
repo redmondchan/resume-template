@@ -4,10 +4,6 @@ body {
   margin: 0;
 }
 
-.a-project {
-  font-weight: normal;
-}
-
 .header {
   height: 8%;
 }
@@ -92,4 +88,8 @@ body {
 
 .font-small {
   font-size: 15px;
+}
+
+.font-normal {
+  font-weight: normal;
 }
