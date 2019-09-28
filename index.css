@@ -78,15 +78,15 @@ body {
   padding-left: 0;
 }
 
-.u-italic {
+.font-italic {
   font-style: italic;
 }
 
-.u-orange {
+.font-orange {
   color: #CE5310;
 }
 
-.u-white {
+.font-white {
   color: white;
 }
 
