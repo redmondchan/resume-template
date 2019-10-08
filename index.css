@@ -22,8 +22,12 @@ body {
   margin: 0.8em 0 0.2em 0;
 }
 
-.u-margin-bottom {
+.u-margin-bottom-none {
   margin-bottom: 0;
+}
+
+.u-margin-bottom-small {
+  margin-bottom: 20px;
 }
 
 .right-side {
