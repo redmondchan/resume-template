@@ -86,6 +86,10 @@ body {
   font-size: 15px;
 }
 
+.font-bold {
+  font-weight: bold;
+}
+
 .font-normal {
   font-weight: normal;
 }
