@@ -10,4 +10,4 @@ I've attached my resume.
 
 Here's a screenshot:
 
-![resume](resume.png)
+![resume](resume-screenshot.png)
